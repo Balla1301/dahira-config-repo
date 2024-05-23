@@ -3,7 +3,7 @@ build:
 
 
 membres:
-  message: "Welcome to Dahira App : membre prod."
+  message: "Welcome to Dahira App : membre production."
   contactDetails:
     name: "Balla GNINGUE"
     email: "ballagningue2@gmail.com"
