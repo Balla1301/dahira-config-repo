@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to Dahira App : cotisation test."
+  contactDetails:
+    name: "Balla GNINGUE"
+    email: "ballagningue2@gmail.com"
