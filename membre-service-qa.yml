@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 
-accounts:
+membres:
   message: "Welcome to Dahira App : membre test."
   contactDetails:
     name: "Balla GNINGUE"
