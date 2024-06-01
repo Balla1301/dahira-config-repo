@@ -1,6 +1,19 @@
 build:
   version: "2.0"
 
+server:
+  port: 8080
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: "http://localhost:8070/eureka/"
+
+
 
 membres:
   message: "Welcome to Dahira App : membre defaul mqq tt."
