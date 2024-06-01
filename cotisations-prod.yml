@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 server:
-  port: 8072
+  port: 8081
 
 eureka:
   instance:
